@@ -1,0 +1,16 @@
+{
+  "name": "Idraulico Tuscolana Roma",
+  "short_name": "Idraulico Tuscolana",
+  "description": "Pronto intervento idraulico a Roma Tuscolana e Quartiere Appio-Tuscolano (Municipio VII). Chiama lo 06 8590 2169.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

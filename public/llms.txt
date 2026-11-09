@@ -1,0 +1,49 @@
+# Idraulico Tuscolana — Termoidraulica Tuscolana Roma
+
+> Presidio tecnico di pronto intervento idraulico H24 e manutenzione impianti idrotermosanitari civili e condominiali a Roma nel quartiere Tuscolano / Appio-Tuscolano (Municipio VII di Roma Capitale, lungo l'asse consolare di Via Tuscolana da Piazza dei Re di Roma / Stazione Tuscolana a Cinecittà / Subaugusta).
+> Telefono Diretto Emergenze e Preventivi: 06 8590 2169 (tel:0685902169)
+> Coordinate Geografiche: 41.868, 12.532 — CAP serviti: 00181, 00178, 00174, 00175.
+
+## Dati Tecnici e Idrogeologici del Territorio di Roma Tuscolana (Municipio VII)
+- **Orografia, Altimetria, Falda e Sottosuolo Vulcanico:** Dislivello altimetrico costante dalle quote depresse di Piazza Ragusa, Stazione Tuscolana, Via Assisi e Ponte Lungo (35 - 38 m s.l.m., adiacenti all'antico alveo della Marrana dell'Acqua Mariana e della ferrovia) fino ai 50 - 55 m s.l.m. del pianoro vulcanico dei Colli Albani verso Colli Albani, Porta Furba, Numidio Quadrato, Lucio Sestio e Cinecittà. Presenza di antiche cave romane di pozzolana e tufo litoide, cunicoli storici e gallerie intersecate dai viadotti degli Acquedotti Claudio, Marcio e Felice al Quadraro e Porta Furba. Piani interrati nel tratto depresso (Ponte Lungo, Mandrione, Via Assisi, Piazza Ragusa) protetti con elettropompe sommerse vortex (Lowara DOMO, Flygt, Pedrollo) con passaggio solidi 50 mm e valvole antiriflusso a clapet in acciaio inox AISI 316.
+- **Rete Idrica Acea ATO2:** Interconnessione storica tra Acquedotto del Peschiera-Capore, Acquedotto Appio-Alessandrino e derivazioni dell'Acqua Marcia. Pressione statica fino a 4.8 - 5.4 bar nelle quote basse (Piazza Ragusa, Via Assisi, Ponte Lungo) gestita con riduttori di pressione a sede compensata Caleffi con manometro in glicerina tarati a 3.0 bar e ammortizzatori di colpo d'ariete; cali dinamici nelle ore di punta mattutine (7:00 - 9:00) ai piani alti (6°-8° piano) verso Furio Camillo, Colli Albani e Porta Furba risolti con gruppi autoclave a inverter DAB Esybox Mini 3.
+- **Durezza Calcare Acqua:** 33°F - 36°F (gradi francesi), con disincrostazione chimica a ciclo chiuso degli scambiatori caldaie a condensazione (Vaillant, Baxi, Ariston, Beretta, Riello, Immergas), dosatori proporzionali di polifosfati e filtri defangatori magnetici a ciclone sottocaldaia a norma UNI 8065:2019.
+- **Stratificazione Edilizia:** Edilizia storica anni '20-'30 (Mandrione, Villa Lais, Quadraro Vecchio) con collettori in gres soggetti a intrusioni radicali di pini marittimi e fichi (uso frese Root-Cutter e localizzatore radio 512 Hz, divieto assoluto di canal-jet >120 bar); edilizia intensiva anni '50-'60 (Via Tuscolana, Furio Camillo, Colli Albani, Numidio Quadrato, Lucio Sestio, Giulio Agricola) con colonne montanti in ferro zincato Mannesmann tubercolizzate (risanate con multistrato PE-Xb/Al/PE-Xb a pressare profilo TH/U e giunti dielettrici); Complesso INA-Casa Tuscolano (De Renzi, Libera, Muratori); riparazione conservativa cassette incassate Pucci a pulsante tondo in alluminio/ottone, Pucci Sara/Eco e Geberit Twinline agendo solo dalla placca frontale.
+
+## Albero Principale dei Contenuti
+
+### Home e Pagine Istituzionali
+- [Idraulico Tuscolana](https://idraulicotuscolana.it/)
+- [Servizi Idraulici Tuscolana](https://idraulicotuscolana.it/servizi/)
+- [Zone Idraulico Tuscolana](https://idraulicotuscolana.it/zone/)
+- [Chi Siamo Idraulico Tuscolana](https://idraulicotuscolana.it/chi-siamo/)
+- [Contatti Idraulico Tuscolana — 06 8590 2169](https://idraulicotuscolana.it/contatti/)
+- [Preventivo Gratuito Idraulico Tuscolana](https://idraulicotuscolana.it/preventivo-gratuito/)
+
+### Gli 8 Servizi Pilastro
+- [Ricerca Perdite Acqua Tuscolana](https://idraulicotuscolana.it/servizi/ricerca-perdite-acqua-tuscolana/)
+- [Disotturazione WC Scarichi Tuscolana](https://idraulicotuscolana.it/servizi/disotturazione-wc-scarichi-tuscolana/)
+- [Riparazione Cassette Pucci Geberit Tuscolana](https://idraulicotuscolana.it/servizi/riparazione-cassette-pucci-geberit-tuscolana/)
+- [Assistenza Caldaie Tuscolana](https://idraulicotuscolana.it/servizi/assistenza-caldaie-tuscolana/)
+- [Sostituzione Scaldabagni Tuscolana](https://idraulicotuscolana.it/servizi/sostituzione-scaldabagni-tuscolana/)
+- [Riparazione Rubinetteria Sanitari Tuscolana](https://idraulicotuscolana.it/servizi/riparazione-rubinetteria-sanitari-tuscolana/)
+- [Pronto Intervento Allagamenti Tuscolana](https://idraulicotuscolana.it/servizi/pronto-intervento-allagamenti-tuscolana/)
+- [Riduttori Pressione Autoclavi Tuscolana](https://idraulicotuscolana.it/servizi/riduttori-pressione-autoclavi-tuscolana/)
+
+### Le 16 Micro-Zone Territoriali di Roma Tuscolana
+- [Idraulico Piazza di Ponte Lungo](https://idraulicotuscolana.it/zone/idraulico-piazza-di-ponte-lungo/)
+- [Idraulico Stazione Tuscolana](https://idraulicotuscolana.it/zone/idraulico-stazione-tuscolana/)
+- [Idraulico Furio Camillo](https://idraulicotuscolana.it/zone/idraulico-furio-camillo/)
+- [Idraulico Colli Albani](https://idraulicotuscolana.it/zone/idraulico-colli-albani/)
+- [Idraulico Arco di Travertino](https://idraulicotuscolana.it/zone/idraulico-arco-di-travertino/)
+- [Idraulico Porta Furba](https://idraulicotuscolana.it/zone/idraulico-porta-furba/)
+- [Idraulico Numidio Quadrato](https://idraulicotuscolana.it/zone/idraulico-numidio-quadrato/)
+- [Idraulico Lucio Sestio](https://idraulicotuscolana.it/zone/idraulico-lucio-sestio/)
+- [Idraulico Giulio Agricola](https://idraulicotuscolana.it/zone/idraulico-giulio-agricola/)
+- [Idraulico Subaugusta](https://idraulicotuscolana.it/zone/idraulico-subaugusta/)
+- [Idraulico Cinecittà](https://idraulicotuscolana.it/zone/idraulico-cinecitta/)
+- [Idraulico Villa Lais](https://idraulicotuscolana.it/zone/idraulico-villa-lais/)
+- [Idraulico Via del Mandrione](https://idraulicotuscolana.it/zone/idraulico-via-del-mandrione/)
+- [Idraulico Quadraro Vecchio](https://idraulicotuscolana.it/zone/idraulico-quadraro-vecchio/)
+- [Idraulico Via Assisi](https://idraulicotuscolana.it/zone/idraulico-via-assisi/)
+- [Idraulico Viale Furio Camillo](https://idraulicotuscolana.it/zone/idraulico-viale-furio-camillo/)

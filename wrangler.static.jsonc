@@ -1,0 +1,19 @@
+{
+  "name": "idraulicotuscolana-static",
+  "main": "worker/index.mjs",
+  "compatibility_date": "2024-09-23",
+  "routes": [
+    {
+      "pattern": "idraulicotuscolana.it/*",
+      "zone_name": "idraulicotuscolana.it"
+    },
+    {
+      "pattern": "www.idraulicotuscolana.it/*",
+      "zone_name": "idraulicotuscolana.it"
+    }
+  ],
+  "assets": {
+    "directory": "./out",
+    "binding": "ASSETS"
+  }
+}

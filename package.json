@@ -1,0 +1,38 @@
+{
+  "name": "idraulicotuscolana.it",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Portale web SEO locale ad altissima conversione - Idraulico Tuscolana Roma (Quartiere Tuscolano / Appio-Tuscolano, Municipio VII)",
+  "author": "Marco D'Elia",
+  "scripts": {
+    "dev": "next dev",
+    "prebuild": "node scripts/build-json-content.mjs",
+    "build": "next build",
+    "postbuild": "node scripts/generate-sitemap.mjs",
+    "start": "next start",
+    "lint": "next lint",
+    "deploy": "npx wrangler deploy --config wrangler.static.jsonc",
+    "check-originality": "node scripts/check-originality.mjs",
+    "verify:originality": "node scripts/check-originality.mjs",
+    "audit-seo": "node scripts/audit-seo.mjs",
+    "verify:seo": "node scripts/audit-seo.mjs",
+    "generate-llms": "node scripts/generate-llms.mjs",
+    "generate-sitemap": "node scripts/generate-sitemap.mjs",
+    "backup": "node scripts/make-backup.mjs"
+  },
+  "dependencies": {
+    "next": "^15.2.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.9",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.8.2",
+    "wrangler": "^4.149.0"
+  }
+}
